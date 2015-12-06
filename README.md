@@ -1,5 +1,3 @@
---
---
 Foi utilizado para teste o Junity 4 e foi feito na classe Testes.java localizado no pacote test.
 Pode executar o projeto na classe inicio.java localizado no pacote principal.
 Se for executar o projeto na classe inicio, deve respeitar o formato das entradas. 
